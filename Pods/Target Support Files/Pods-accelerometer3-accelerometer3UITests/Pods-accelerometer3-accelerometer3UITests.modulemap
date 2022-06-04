@@ -1,0 +1,6 @@
+framework module Pods_accelerometer3_accelerometer3UITests {
+  umbrella header "Pods-accelerometer3-accelerometer3UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,116 @@
+{
+  "images" : [
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası.jpeg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-1.jpeg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-2.jpeg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-3.jpeg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-4.jpeg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-5.jpeg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-6.jpeg",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-8.jpeg",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-17.jpeg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-15.jpeg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-16.jpeg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-13.jpeg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-14.jpeg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-11.jpeg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-12.jpeg",
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-10.jpeg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "76x76"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-9.jpeg",
+      "idiom" : "ipad",
+      "scale" : "2x",
+      "size" : "83.5x83.5"
+    },
+    {
+      "filename" : "911AC535-D303-4647-A424-7A2F3ABC5765 kopyası-7.jpeg",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
